@@ -1,0 +1,8 @@
+
+@media (max-width: 768px) {
+  .card-badge {
+    /* right: auto; */
+    /* left: -5px; */
+    display: none;
+  }
+}
